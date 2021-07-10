@@ -1,0 +1,36 @@
+EGE = {
+  color = rgb { 106  119  89 }
+  color_ui = rgb { 255 255 155}
+}
+NGE = {
+  color = rgb { 153 163 149 }
+  color_ui = rgb { 255 255 155}
+}
+WGE = {
+  color = rgb { 94 175 181 }
+  color_ui = rgb { 255 255 155}
+}
+BNE = {
+  color = rgb { 219 200 114 }
+  color_ui = rgb { 255 255 155}
+}
+NFR = {
+  color = rgb { 42 103 201 }
+  color_ui = rgb { 255 255 155}
+}
+WFR = {
+  color = rgb { 9 41 92 }
+  color_ui = rgb { 255 255 155}
+}
+SFR = {
+  color = rgb { 181 11 22 }
+  color_ui = rgb { 255 255 155}
+}
+ALP = {
+  color = rgb { 237 237 237 }
+  color_ui = rgb { 255 255 155}
+}
+CZE = {
+  color = rgb { 66 167 207 }
+  color_ui = rgb { 255 255 155}
+}
