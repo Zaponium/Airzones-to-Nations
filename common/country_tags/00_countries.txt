@@ -19,4 +19,5 @@ AMA = "countries/Amazonas.txt"
 HEL = "countries/Hellas.txt"
 GGL = "countries/Galicia.txt"
 NSA = "countries/NorthernSouthAmerica.txt"
-
+NAD = "countries/NorthernAndes.txt"
+ARG = "countries/Argentina.txt"

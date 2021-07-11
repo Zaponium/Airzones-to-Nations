@@ -8,6 +8,8 @@ state={
 	
 
 	history={
+        owner = NAD
+	add_core_of = NAD
 		buildings = {
 			infrastructure = 3
 		}
