@@ -3,6 +3,8 @@ state={
 	name="STATE_172"
 
 	history={
+	owner = CTL
+	add_core_of = CTL
 		victory_points = {
 			3933 1
 		}

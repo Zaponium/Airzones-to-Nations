@@ -3,6 +3,8 @@ state={
 	name="STATE_176"
 
 	history={
+	owner = CTL
+	add_core_of = CTL
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
