@@ -6,6 +6,8 @@ state=
 	
 	state_category = enclave
 	history={
+	owner = SIS 
+	add_core_of = SIS
 		victory_points = { 4135 10 }
 		buildings = {
 			infrastructure = 6

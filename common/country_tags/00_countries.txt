@@ -21,3 +21,7 @@ GGL = "countries/Galicia.txt"
 NSA = "countries/NorthernSouthAmerica.txt"
 NAD = "countries/NorthernAndes.txt"
 ARG = "countries/Argentina.txt"
+SIS = "countries/SouthernIberia.txt"
+TRK = "countries/Turkey.txt"
+AAS = "countries/AssociationofArabStates.txt"
+

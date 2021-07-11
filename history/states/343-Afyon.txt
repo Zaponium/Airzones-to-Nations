@@ -2,7 +2,7 @@
 state={
 	id=343
 	name="STATE_343" # Afyon
-	manpower = 955763
+	manpower = 1298543
 	resources={
 		chromium=25 # was: 32
 	}
@@ -10,19 +10,24 @@ state={
 	state_category = rural
 
 	history={
+		owner = TRK
 		victory_points = {
 			10041 1 
 		}
 		victory_points = {
-			9878 1 
+			9878 5
+		}
+		victory_points = {
+			3856 3
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 		}
+		add_core_of = TRK
 	}
 
 	provinces={
-		784 856 981 3856 3876 3983 6877 6945 9878 10041 11796 11831 11907 
+		856 981 3856 3983 6877 6945 9878 10041 11796 11831 11907 
 	}
 }

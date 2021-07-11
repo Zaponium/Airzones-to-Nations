@@ -2,19 +2,32 @@
 state={
 	id=353
 	name="STATE_353"
-	manpower = 523537
-	state_category = rural
 
 	history={
+		owner = TRK
+		add_core_of = TRK
 		victory_points = {
-			11853 1 
+			11853 3
+		}
+		victory_points = {
+			9860 1
+		}
+		victory_points = {
+			876 1
+		}
+		victory_points = {
+			9868 1
 		}
 		buildings = {
-			infrastructure = 3
+			infrastructure = 2
+
 		}
 	}
 
 	provinces={
-		876 9858 9954 10399 
+		876 9858 9860 9868 9954 10399 11797 11853
 	}
+	manpower=523537
+	buildings_max_level_factor=1.000
+	state_category=rural
 }
