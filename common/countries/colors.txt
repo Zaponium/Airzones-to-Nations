@@ -66,7 +66,7 @@ HEL = {
   color = rgb { 69 246 255 }
   color_ui = rgb { 255 255 155 }
 }
-WBA = {
+BRZ = {
   color = rgb { 0 102 0 }
   color_ui = rgb { 255 255 155 }
 }
