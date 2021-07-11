@@ -8,6 +8,8 @@ state={
 	
 	
 	history = {
+	owner = AAS
+	add_core_of = AAS
 		buildings = {
 			infrastructure = 2
 		}

@@ -82,3 +82,7 @@ TRK = {
   color = rgb { 173 167 132 }
   color_ui = rgb { 255 255 155 }
 }
+AAS = {
+  color = rgb { 123 128 116 }
+  color_ui = rgb { 255 255 155 }
+}
