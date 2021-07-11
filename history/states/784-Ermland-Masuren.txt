@@ -6,6 +6,8 @@ state={
 	state_category = rural
 	
 	history={
+	owner = EPO
+	add_core_of = EPO
 		victory_points = {
 			3320 3
 		}

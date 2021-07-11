@@ -6,6 +6,8 @@ state={
 	state_category = city
 	
 	history={
+	owner = EPO
+	add_core_of = EPO
 		victory_points = {
 			11479 3
 		}

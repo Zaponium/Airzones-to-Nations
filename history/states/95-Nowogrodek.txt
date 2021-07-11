@@ -3,6 +3,8 @@ state={
 	name="STATE_95"
 
 	history={
+	owner = EPO
+	add_core_of = EPO
 		victory_points = {
 			9304 1
 		}

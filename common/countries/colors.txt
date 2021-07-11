@@ -34,3 +34,11 @@ CZE = {
   color = rgb { 66 167 207 }
   color_ui = rgb { 255 255 155}
 }
+WPO = {
+  color = rgb { 214 71 145 } 
+  color_ui = rgb { 255 255 155 }
+}
+EPO = {
+  color = rgb { 247 129 190 } 
+  color_ui = { 255 255 155 }
+}
