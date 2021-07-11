@@ -6,6 +6,8 @@ state={
 	state_category = rural
 
 	history={
+        owner = BRZ
+	add_core_of = BRZ
 		buildings = {
 			infrastructure = 2
 

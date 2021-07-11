@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+        owner = BRZ
+	add_core_of = BRZ
 		victory_points = {
 			7476 3
 		}
