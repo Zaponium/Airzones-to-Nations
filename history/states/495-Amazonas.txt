@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+        owner = AMA
+	add_core_of = AMA
 		buildings = {
 			infrastructure = 0
 

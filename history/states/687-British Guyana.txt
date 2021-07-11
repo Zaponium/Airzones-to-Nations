@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+        owner = AMA
+	add_core_of = AMA
 		victory_points = {
 			4982 1
 		}
