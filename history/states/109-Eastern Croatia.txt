@@ -7,6 +7,8 @@ state={
 	state_category = large_town
 
 	history={
+	owner = WBA
+	add_core_of = WBA
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 3

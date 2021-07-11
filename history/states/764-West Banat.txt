@@ -6,7 +6,8 @@ state={
 	state_category = rural
 
 	history={
-
+    owner = WBA
+	add_core_of = WBA
 		buildings = {
 			infrastructure = 6
 		}

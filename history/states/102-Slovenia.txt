@@ -8,6 +8,8 @@ state=
 	
 	history =
 	{
+	owner = WBA
+	add_core_of = WBA
 		buildings = {
 			infrastructure = 6
 		}

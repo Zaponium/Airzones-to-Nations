@@ -51,6 +51,10 @@ NBA = {
   color_ui = rgb { 255 255 155 }
 }
 EBA = {
-  color = { 252 239 0 }
+  color = rgb { 252 239 0 }
+  color_ui = rgb { 255 255 155 }
+}
+WBA = {
+  color = rgb { 119 60 186 }
   color_ui = rgb { 255 255 155 }
 }

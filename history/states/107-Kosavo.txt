@@ -3,6 +3,8 @@ state={
 	name="STATE_107"
 
 	history={
+	owner = WBA
+	add_core_of = WBA
 		buildings = {
 			infrastructure = 6
 			arms_factory = 3

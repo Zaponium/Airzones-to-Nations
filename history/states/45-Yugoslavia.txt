@@ -3,6 +3,8 @@ state={
 	name="STATE_45"
 
 	history={
+	owner = WBA
+	add_core_of = WBA
 		victory_points = { 619 3 }
 		buildings = {
 			infrastructure = 6
