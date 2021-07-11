@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+        owner = BRZ
+	add_core_of = BRZ
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
