@@ -3,6 +3,8 @@ state={
 	name="STATE_168"
 
 	history={
+	owner = SIS 
+	add_core_of = SIS
 		victory_points = {
 			10024 3
 		}

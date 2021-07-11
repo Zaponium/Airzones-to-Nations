@@ -18,5 +18,9 @@ BRZ = "countries/Brazil.txt"
 AMA = "countries/Amazonas.txt"
 HEL = "countries/Hellas.txt"
 GGL = "countries/Galicia.txt"
+<<<<<<< Updated upstream
 NSA = "countries/NorthernSouthAmerica.txt"
 
+=======
+SIS = "countries/SouthernIberia"
+>>>>>>> Stashed changes

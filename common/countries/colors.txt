@@ -74,3 +74,7 @@ GGL = {
   color = rgb { 255 255 0 }
   color_ui = rgb { 255 255 155 }
 }
+SIS = {
+  color = rgb { 255 200 0 }
+  color_ui = rgb { 255 255 155 }
+}
