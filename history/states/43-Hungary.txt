@@ -11,6 +11,8 @@ state={
 	state_category = large_city
 
 	history={
+	owner = NBA
+	add_core_of = NBA
 		buildings = {
 			infrastructure = 6
 			arms_factory = 4

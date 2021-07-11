@@ -5,8 +5,9 @@ state={
 	
 	state_category = rural
 	
-	history=
-	{
+	history= {
+	owner = EBA
+	add_core_of = EBA
 		victory_points = {
 			577 1 
 		}

@@ -8,6 +8,8 @@ state=
 	
 	history=
 	{
+	owner = EBA
+	add_core_of = EBA
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

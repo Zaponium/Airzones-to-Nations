@@ -42,3 +42,15 @@ EPO = {
   color = rgb { 247 129 190 } 
   color_ui = { 255 255 155 }
 }
+GDB = {
+  color = rgb { 121 79 194 }
+  color_ui = rgb { 255 255 155 }
+}
+NBA = {
+  color = { 252 189 0 }
+  color_ui = rgb { 255 255 155 }
+}
+EBA = {
+  color = { 252 239 0 }
+  color_ui = rgb { 255 255 155 }
+}

@@ -10,6 +10,8 @@ state={
 	state_category = city
 	
 	history={
+	owner = GDB
+	add_core_of = GDB
 		victory_points = {
 			9340 5 
 		}

@@ -8,6 +8,8 @@ state=
 	state_category = rural
 	
 	history = {
+	owner = GDB
+	add_core_of = GDB
 		victory_points = {
 			3288 1
 		}

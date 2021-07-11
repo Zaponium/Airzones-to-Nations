@@ -10,6 +10,8 @@ state={
 	state_category = town
 
 	history={
+	owner = NBA
+	add_core_of = NBA
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1

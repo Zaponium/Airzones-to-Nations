@@ -8,6 +8,8 @@ state={
 	}
 	state_category = town
 	history={
+	owner = GDB
+	add_core_of = GDB
 		victory_points = {
 			3152 5 
 		}
