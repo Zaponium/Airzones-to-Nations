@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+        owner = NSA
+	add_core_of = NSA
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2

@@ -18,4 +18,5 @@ BRZ = "countries/Brazil.txt"
 AMA = "countries/Amazonas.txt"
 HEL = "countries/Hellas.txt"
 GGL = "countries/Galicia.txt"
+NSA = "countries/NorthernSouthAmerica.txt"
 
