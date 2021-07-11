@@ -6,6 +6,8 @@ state={
 	}
 
 	history={
+	owner = CTL
+	give_core_of = CTL
 		victory_points = {
 			740 10
 		}

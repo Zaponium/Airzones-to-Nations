@@ -47,7 +47,7 @@ GDB = {
   color_ui = rgb { 255 255 155 }
 }
 NBA = {
-  color = { 252 189 0 }
+  color = rgb { 252 189 0 }
   color_ui = rgb { 255 255 155 }
 }
 EBA = {
@@ -59,10 +59,18 @@ WBA = {
   color_ui = rgb { 255 255 155 }
 }
 CTL = {
-  color = { 128 33 33 }
+  color = rgb { 128 33 33 }
   color_ui = rgb { 255 255 155 }
 }
-WBA = {
+HEL = {
+  color = rgb { 69 246 255 }
+  color_ui = rgb { 255 255 155 }
+}
+BRZ = {
   color = rgb { 0 102 0 }
+  color_ui = rgb { 255 255 155 }
+}
+GGL = {
+  color = rgb { 255 255 0 }
   color_ui = rgb { 255 255 155 }
 }

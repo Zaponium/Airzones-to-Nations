@@ -16,3 +16,6 @@ WBA = "countries/WesternBalkans.txt"
 CTL = "countries/Catalon.txt"
 BRZ = "countries/Brazil.txt"
 AMA = "countries/Amazonas.txt"
+HEL = "countries/Hellas.txt"
+GGL = "countries/Galicia.txt"
+

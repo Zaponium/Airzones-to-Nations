@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+	owner = HEL
+	add_core_of = HEL
 		buildings = {
 			infrastructure = 4
 			dockyard = 1

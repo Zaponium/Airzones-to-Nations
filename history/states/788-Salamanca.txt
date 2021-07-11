@@ -6,6 +6,8 @@ state={
 		tungsten=10.000 #added due to Portugal Setup
 	}
 	history={
+	owner = GGL
+	give_core_of = GGL
 		victory_points = {
 			3874 1 
 		}

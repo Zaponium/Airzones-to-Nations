@@ -3,6 +3,8 @@ state={
 	name="STATE_790"
 
 	history={
+	owner = GGL
+	give_core_of = GGL
 		victory_points = {
 			11707 3
 		}
