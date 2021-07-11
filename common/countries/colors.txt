@@ -62,10 +62,13 @@ CTL = {
   color = rgb { 128 33 33 }
   color_ui = rgb { 255 255 155 }
 }
+<<<<<<< Updated upstream
 HEL = {
   color = rgb { 69 246 255 }
   color_ui = rgb { 255 255 155 }
 }
+=======
+>>>>>>> Stashed changes
 BRZ = {
   color = rgb { 0 102 0 }
   color_ui = rgb { 255 255 155 }

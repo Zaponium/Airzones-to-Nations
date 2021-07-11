@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+	owner = GGL
+	give_core_of = GGL
 		victory_points = {
 			9787 1
 		}
