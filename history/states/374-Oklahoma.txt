@@ -13,6 +13,8 @@ state={
 
 
 	history={
+	owner = GST
+	add_core_of = GST
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2

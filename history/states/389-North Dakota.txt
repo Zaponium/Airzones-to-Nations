@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+	owner = CUT
+	add_core_of = CUT
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1

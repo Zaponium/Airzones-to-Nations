@@ -12,6 +12,8 @@ state={
 
 
 	history={
+	owner = THC
+	add_core_of = THC
 		buildings = {
 			infrastructure = 8
 			industrial_complex = 5

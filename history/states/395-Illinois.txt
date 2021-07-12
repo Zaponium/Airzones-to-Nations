@@ -6,6 +6,8 @@ state={
 	state_category = megalopolis
 
 	history={
+	owner = GLC
+	add_core_of = GLC
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
