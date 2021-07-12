@@ -8,6 +8,8 @@ state=
 	
 	history=
 	{
+	owner = SED
+	add_core_of = SED
 		buildings = {
 			infrastructure = 6
 			408 = {

@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+	owner = SED
+	add_core_of = SED
 		victory_points = {
 			6050 20 
 		}
