@@ -62,5 +62,6 @@ UKA = "countries/Ukraine.txt"
 UKU = "countries/UnifiedKubanRegion.txt"
 ETS = "countries/ExtendedTerritoriesStalingrad.txt"
 KXX = x
-
+FIL = "countries/Finland.txt"
+GSP = "countries/GreaterStPetersburg.txt"
 
