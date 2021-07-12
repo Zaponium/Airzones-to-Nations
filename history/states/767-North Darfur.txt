@@ -8,6 +8,8 @@ state=
 	impassable = yes
 	
 	history= {
+	owner = EGP
+	add_core_of = EGP
 		buildings = {
 			infrastructure = 0
 		}

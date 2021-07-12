@@ -5,6 +5,8 @@ state={
 	
 	state_category = rural
 	history = {
+	owner = EGP
+	add_core_of = EGP
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

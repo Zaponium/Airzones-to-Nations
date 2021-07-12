@@ -8,6 +8,8 @@ state=
 
 	history=
 	{
+	owner = EGP
+	add_core_of = EGP
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
