@@ -175,19 +175,19 @@ NEG = {
   color_ui = rgb { 255 255 155 }
 }
 DXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 DXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 DXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 DXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 EGP = {
@@ -195,19 +195,19 @@ EGP = {
   color_ui = rgb { 255 255 155 }
 }
 KXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 KXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 KXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 KXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 SED = {
@@ -215,22 +215,22 @@ SED = {
   color_ui = rgb { 255 255 155 }
 }
 ZXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 ZXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 ZXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 ZXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
 ZXX = {
-  color = rgb {  }
+  color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }
