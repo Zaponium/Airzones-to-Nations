@@ -9,6 +9,8 @@ state={
 
 
 	history={
+	owner = MUS
+	add_core_of = MUS
 		buildings = {
 			infrastructure = 4
 		}

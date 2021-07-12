@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+	owner = MUS
+	add_core_of = MUS
 		victory_points = {
 			6380 50 
 		}

@@ -245,8 +245,8 @@ UKA = {
   color = rgb { 0 128 255 }
   color_ui = rgb { 255 255 155 }
 }
-KXX = {
-  color = rgb { x }
+MUS = {
+  color = rgb { 0 51 77 }
   color_ui = rgb { 255 255 155 }
 }
 KXX = {

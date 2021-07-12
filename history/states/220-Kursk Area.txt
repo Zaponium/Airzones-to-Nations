@@ -6,6 +6,8 @@ state={
 	state_category = city
 
 	history={
+	owner = MUS
+	add_core_of = MUS
 		victory_points = {
 			3580 5
 		}
