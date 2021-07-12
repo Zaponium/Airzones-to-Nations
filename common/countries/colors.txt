@@ -209,8 +209,8 @@ GMO = {
   color = rgb { 82 56 42 }
   color_ui = rgb { 255 255 155 }
 }
-KXX = {
-  color = rgb { x }
+IRN = {
+  color = rgb { 74 64 58 }
   color_ui = rgb { 255 255 155 }
 }
 KXX = {

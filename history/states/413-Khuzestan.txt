@@ -11,6 +11,8 @@ state={
 	
 
 	history={
+	owner = IRN
+	add_core_of = IRN
 		buildings = {
 			infrastructure = 5
 			5005 = {

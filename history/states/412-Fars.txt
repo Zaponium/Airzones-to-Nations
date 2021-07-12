@@ -10,11 +10,17 @@ state={
 
 	state_category = rural
 	history={
+	owner = IRN
+	add_core_of = IRN
+		owner = PER
 		victory_points = {
-			8117 1 
+			8117 3 
 		}
 		victory_points = {
 			7982 3 
+		}
+		victory_points = {
+			12832 1
 		}
 		buildings = {
 			infrastructure = 2
@@ -25,6 +31,7 @@ state={
 				naval_base = 2
 			}
 		}
+		add_core_of = PER
 	}
 
 	provinces={
