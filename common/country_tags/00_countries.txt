@@ -59,5 +59,8 @@ NNG = "countries/NordNorge.txt"
 SAR = "countries/SapmiRepublic.txt"
 BLS = "countries/Belarus.txt"
 UKA = "countries/Ukraine.txt"
+KXX = x
+KXX = x
+KXX = x
 
 
