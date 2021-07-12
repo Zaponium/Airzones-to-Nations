@@ -7,8 +7,8 @@ state={
 	state_category = city
 
 	history={
-	owner = GLC
-	add_core_of = GLC
+	owner = GLF
+	add_core_of = GLF
 		victory_points = {
 			4464 1 
 		}

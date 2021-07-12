@@ -9,8 +9,8 @@ state={
 	state_category = metropolis
 
 	history={
-	owner = GLC
-	add_core_of = GLC
+	owner = GLF
+	add_core_of = GLF
 		buildings = {
 			infrastructure = 7
 			arms_factory = 1
