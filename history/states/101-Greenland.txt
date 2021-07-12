@@ -6,8 +6,9 @@ state=
 	
 	state_category = wasteland
 	
-	history=
-	{
+	history={
+	owner = GRD
+	add_core_of = GRD
 		buildings = {
 			infrastructure = 1
 			12512 ={

@@ -8,6 +8,8 @@ state={
 	state_category = rural
 
 	history={
+	owner = FEC
+	add_core_of = FEC
 		buildings = {
 			infrastructure = 1
 			3691 = {

@@ -7,8 +7,9 @@ state=
 	state_category = rural
 	
 	
-	history=
-	{
+	history={
+	owner = ICL
+	add_core_of = ICL
 		victory_points = { 12674 1 }
 		buildings = {
 			infrastructure = 2

@@ -174,32 +174,32 @@ NEG = {
   color = rgb { 255 230 230 }
   color_ui = rgb { 255 255 155 }
 }
-DXX = {
-  color = rgb { x }
+ALA = {
+  color = rgb { 179 255 255 }
   color_ui = rgb { 255 255 155 }
 }
-DXX = {
-  color = rgb { x }
+SAK = {
+  color = rgb { 128 0 0 }
   color_ui = rgb { 255 255 155 }
 }
-DXX = {
-  color = rgb { x }
+FEC = {
+  color = rgb { 255 77 77 }
   color_ui = rgb { 255 255 155 }
 }
-DXX = {
-  color = rgb { x }
+PIR = {
+  color = rgb { 77 38 0 }
   color_ui = rgb { 255 255 155 }
 }
 EGP = {
   color = rgb { 239 255 94 }
   color_ui = rgb { 255 255 155 }
 }
-KXX = {
-  color = rgb { x }
+GRD = {
+  color = rgb { 169 169 169 }
   color_ui = rgb { 255 255 155 }
 }
-KXX = {
-  color = rgb { x }
+ICL= {
+  color = rgb { 85 85 85 }
   color_ui = rgb { 255 255 155 }
 }
 KXX = {

@@ -3,6 +3,8 @@ state={
 	name="STATE_739"
 
 	history={
+	owner = SAK
+	add_core_of = SAK
 		buildings = {
 			infrastructure = 1
 

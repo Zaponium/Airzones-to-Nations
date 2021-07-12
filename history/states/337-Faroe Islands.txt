@@ -8,6 +8,8 @@ state=
 	
 	history=
 	{
+	owner = ICL
+	add_core_of = ICL
 		buildings = {
 			infrastructure = 4
 			13003 = {

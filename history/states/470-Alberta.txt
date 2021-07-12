@@ -8,6 +8,8 @@ state={
 
 
 	history={
+	owner = SAK
+	add_core_of = SAK
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

@@ -6,6 +6,8 @@ state={
 	state_category = tiny_island
 
 	history={
+	owner = PIR
+	add_core_of = PIR
 		buildings = {
 			infrastructure = 4
 			10440 = {

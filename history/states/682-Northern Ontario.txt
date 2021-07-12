@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+	owner = FEC
+	add_core_of = FEC
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

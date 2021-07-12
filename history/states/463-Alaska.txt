@@ -3,6 +3,8 @@ state={
 	name="STATE_463"
 
 	history={
+	owner = ALA
+	add_core_of = ALA
 		buildings = {
 			infrastructure = 2
 			air_base = 1
