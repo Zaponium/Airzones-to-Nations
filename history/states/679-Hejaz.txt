@@ -6,6 +6,8 @@ state={
 	state_category = pastoral
 
 	history={
+	owner = ARA
+	add_core_of = ARA
 		victory_points = {
 			12758 1 
 		}

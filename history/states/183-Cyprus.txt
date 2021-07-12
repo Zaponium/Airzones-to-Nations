@@ -10,6 +10,8 @@ state= {
 
 	history=
 	{
+	owner = AAS
+	add_core_of = AAS
 		victory_points = {
 			11984 5
 		}
