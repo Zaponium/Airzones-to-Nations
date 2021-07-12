@@ -12,6 +12,8 @@ state= {
 	}
 
 	history= {
+	owner = SCU
+	add_core_of = SCU
 		victory_points = { 11064 1 }
 		buildings = {
 			infrastructure = 4

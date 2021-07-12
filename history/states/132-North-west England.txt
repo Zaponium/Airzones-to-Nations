@@ -11,6 +11,8 @@ state= {
 	}
 
 	history= {
+	owner = EUS
+	add_core_of = EUS
 		victory_points = {
 			6384 30 
 		}

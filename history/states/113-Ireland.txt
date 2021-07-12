@@ -11,6 +11,8 @@ state={
 	state_category = city
 	
 	history={
+	owner = IEL
+	add_core_of = IEL
 		victory_points = {
 			11293 5 
 		}

@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+	owner = SCU
+	add_core_of = SCU
 		buildings = {
 			infrastructure = 6
 			dockyard = 2
