@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+	owner = POF
+	add_core_of = POF
 		buildings = {
 			infrastructure = 4
 			dockyard = 1

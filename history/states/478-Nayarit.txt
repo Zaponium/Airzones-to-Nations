@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+	owner = POF
+	add_core_of = POF
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

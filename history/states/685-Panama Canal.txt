@@ -6,6 +6,8 @@ state={
 	state_category = enclave
 
 	history={
+	owner = CAA
+	add_core_of = CAA
 		victory_points = {
 			7617 5 
 		}

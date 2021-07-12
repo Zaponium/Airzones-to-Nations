@@ -11,6 +11,8 @@ state={
 	}
 	
 	history={
+	owner = YUP
+	add_core_of = YUP
 		buildings = {
 			infrastructure = 3
 			air_base = 2

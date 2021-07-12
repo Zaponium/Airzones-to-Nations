@@ -24,4 +24,8 @@ ARG = "countries/Argentina.txt"
 SIS = "countries/SouthernIberia.txt"
 TRK = "countries/Turkey.txt"
 AAS = "countries/AssociationofArabStates.txt"
+CAA = "countries/CentralAmerica.txt"
+YUP = "countries/YucatanPeninsula.txt"
+NMS = "countries/NorthernMexicanState.txt"
+POF = "countries/Porfiriato.txt"
 
