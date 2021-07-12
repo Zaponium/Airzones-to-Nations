@@ -1,4 +1,4 @@
-﻿capital = 229
+﻿capital = 206
 
 #oob = ""
 
@@ -18,7 +18,6 @@ set_technology = {
 }
 
 set_convoys = 100
-army_experience = 100
 
 1939.1.1 = {
 	#generic focuses

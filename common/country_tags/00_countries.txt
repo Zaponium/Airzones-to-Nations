@@ -57,5 +57,6 @@ NRG = "countries/Norway.txt"
 OSR = "countries/Sapmi.txt"
 NNG = "countries/NordNorge.txt"
 SAR = "countries/SapmiRepublic.txt"
+BLS = "countries/Belarus.txt"
 
 

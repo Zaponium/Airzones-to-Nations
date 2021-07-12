@@ -18,6 +18,7 @@ set_technology = {
 }
 
 set_convoys = 20
+army_experience = 100
 
 1939.1.1 = {
 	#generic focuses
@@ -65,3 +66,7 @@ set_popularities = {
 	communism = 5
 	neutrality = 85
 }
+
+
+
+
