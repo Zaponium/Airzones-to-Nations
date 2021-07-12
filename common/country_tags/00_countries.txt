@@ -40,5 +40,20 @@ SCU = "countries/Scotland.txt"
 EUS = "countries/EnglishUnionState.txt"
 ECS = "countries/EnglishConservativeState.txt"
 ARA = "countries/Arabia.txt"
+DXX =
+DXX =
+DXX =
+DXX =
+DXX =
+KXX =
+KXX =
+KXX =
+KXX =
+KXX =
+ZXX =
+ZXX =
+ZXX =
+ZXX =
+ZXX =
 
 
