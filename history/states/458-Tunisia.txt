@@ -9,6 +9,8 @@ state={
 	}
 
 	history={
+	owner = NAJ
+		add_core_of = NAJ
 		victory_points = {
 			11969 10 
 		}

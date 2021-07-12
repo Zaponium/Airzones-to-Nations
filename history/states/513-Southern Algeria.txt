@@ -7,6 +7,8 @@ state={
 	state_category = wasteland
 
 	history={
+	owner = NAJ
+		add_core_of = NAJ
 		victory_points = {
 			12034 1 
 		}
