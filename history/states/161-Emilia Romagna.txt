@@ -11,8 +11,6 @@ state={
 	}
 
 	history={
-	owner = ITY
-	add_core_of = ITY
 		victory_points = {
 			6606 3 
 		}

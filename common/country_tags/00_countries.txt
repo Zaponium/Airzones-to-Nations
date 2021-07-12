@@ -31,7 +31,6 @@ POF = "countries/Porfiriato.txt"
 GRC = "countires/GreaterCalifornia.txt"
 URC = "countries/UnionOfRockyStates.txt"
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 CUT = "countries/CentralAmericanStates.txt"
 GST = "countries/GreaterStateOfTexas.txt"
 GLC = "countries/GreatLakesConfederacy.txt"
@@ -40,10 +39,3 @@ THC = "countries/ThirteenColonies.txt"
 ARA = "countries/Arabia.txt"
 >>>>>>> Stashed changes
 
-=======
-ITY = "countries/Italy.txt"
-IEL = "countries/Ireland.txt"
-SCU = "countries/Scotland.txt"
-EUS = "EnglishUnionState.txt"
-ECS = "EnglishConservativeState.txt"
->>>>>>> Stashed changes

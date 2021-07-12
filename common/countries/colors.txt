@@ -87,7 +87,6 @@ AAS = {
   color_ui = rgb { 255 255 155 }
 }
 <<<<<<< Updated upstream
-<<<<<<< Updated upstream
 AMA = {
   color = rgb { 76 153 0 }
   color_ui = rgb { 255 255 155 }
@@ -147,29 +146,5 @@ THC = {
 ARA = {
   color = rgb { 222 208 162 }
   color_ui = rgb { 255 255 155 }
->>>>>>> Stashed changes
-=======
-
-
-
-ITY = {
-  color = rgb { 31 181 61 }
-  color_ui = rgb { 255 255 155 }
-}
-IEL = {
-  color = rgb { 40 133 58 }
-  color_ui = rbg { 255 255 155 }
-}
-SCU = {
-  color = rgb { 14 130 176 }
-  color_ui = rbg { 255 255 155 }
-}
-EUS = { 
-  color = rbg { 163 37 18 }
-  color_ui = rbg { 255 255 155 }
-}
-ECS = {
-  color = rbg { 18 28 163 }
-  color_ui = rbg { 255 255 155 }
 >>>>>>> Stashed changes
 }

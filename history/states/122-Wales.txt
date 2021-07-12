@@ -12,8 +12,6 @@ state= {
 
 	history=
 	{
-	owner = EUS
-	add_core_of = EUS
 		victory_points = { 377 5 }
 		buildings = {
 			infrastructure = 5
