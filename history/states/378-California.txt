@@ -12,6 +12,8 @@ state={
 	}
 
 	history={
+	owner = GRC
+	add_core_of = GRC
 		buildings = {
 			infrastructure = 6
 			arms_factory = 2

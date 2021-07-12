@@ -7,6 +7,8 @@ state={
 	state_category = town
 
 	history={
+	owner = GRC
+	add_core_of = GRC
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

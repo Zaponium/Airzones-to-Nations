@@ -13,6 +13,8 @@ state={
 	}
 
 	history={
+	owner = URC
+	add_core_of = URC
 		buildings = {
 			infrastructure = 4
 		}

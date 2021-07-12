@@ -28,4 +28,6 @@ CAA = "countries/CentralAmerica.txt"
 YUP = "countries/YucatanPeninsula.txt"
 NMS = "countries/NorthernMexicanState.txt"
 POF = "countries/Porfiriato.txt"
+GRC = "countires/GreaterCalifornia.txt"
+URC = "countries/UnionOfRockyStates.txt"
 
