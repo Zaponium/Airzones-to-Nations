@@ -9,6 +9,8 @@ state=
 
 	history=
 	{
+	owner = IEL
+	add_core_of = IEL
 		buildings = {
 			infrastructure = 6
 		}
