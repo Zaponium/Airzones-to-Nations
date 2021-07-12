@@ -7,6 +7,8 @@ state={
 	state_category = town
 
 	history={
+	owner = ETS
+	add_core_of = ETS
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
