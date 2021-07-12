@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+	owner = ECS
+	add_core_of = ECS
 		buildings = {
 			infrastructure = 8
 			arms_factory = 2

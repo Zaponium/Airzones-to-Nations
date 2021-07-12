@@ -86,7 +86,6 @@ AAS = {
   color = rgb { 123 128 116 }
   color_ui = rgb { 255 255 155 }
 }
-<<<<<<< Updated upstream
 AMA = {
   color = rgb { 76 153 0 }
   color_ui = rgb { 255 255 155 }
@@ -129,11 +128,11 @@ URC = {
 }
 CUT = {
   color = rgb { 166 77 255 }
-  color_ui = rgb { URC = {
+  color_ui = rgb { 255 255 155 }
 }
 GST = {
   color = rgb { 51 0 102 }
-  color_ui = rgb { URC = {
+  color_ui = rgb { 255 255 155 }
 }
 GLC = {
   color = rgb { 0 213 255 }
@@ -141,7 +140,6 @@ GLC = {
 }
 THC = {
   color = rgb { 255 25 64 }
-<<<<<<< HEAD
   color_ui = rgb { 255 255 155 }
 }
 ARA = {
@@ -157,15 +155,15 @@ IEL = {
   color_ui = rbg { 255 255 155 }
 }
 SCU = {
-  color = rgb { 14 130 176 }
+  color = rgb { 7 159 182 }
   color_ui = rbg { 255 255 155 }
 }
 EUS = { 
-  color = rbg { 163 37 18 }
-  color_ui = rbg { 255 255 155 }
+  color = rbg { 181 7 36 }
+  color_ui = rbg { 255 255 255 }
 }
 ECS = {
-  color = rbg { 18 28 163 }
+  color = rbg { 11 17 99 }
   color_ui = rbg { 255 255 155 }
 }
 ARA = {

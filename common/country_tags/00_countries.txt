@@ -37,8 +37,8 @@ THC = "countries/ThirteenColonies.txt"
 ITY = "countries/Italy.txt"
 IEL = "countries/Ireland.txt"
 SCU = "countries/Scotland.txt"
-EUS = "EnglishUnionState.txt"
-ECS = "EnglishConservativeState.txt"
+EUS = "countries/EnglishUnionState.txt"
+ECS = "countries/EnglishConservativeState.txt"
 ARA = "countries/Arabia.txt"
 
 
