@@ -103,11 +103,11 @@ ARG = {
   color_ui = rgb { 255 255 155 }
 }
 CAA = {
-  color = rgb { 255 213 0 }
+  color = rgb { 114 160 193 }
   color_ui = rgb { 255 255 155 }
 }
 POF = {
-  color = rgb { 51 26 0 }
+  color = rgb { 255 239 0 }
   color_ui = rgb { 255 255 155 }
 }
 YUP = {
@@ -115,7 +115,7 @@ YUP = {
   color_ui = rgb { 255 255 155 }
 }
 NMS = {
-  color = rgb { 94 175 181 }
+  color = rgb { 254 90 29 }
   color_ui = rgb { 255 255 155 }
 }
 GRC = {
