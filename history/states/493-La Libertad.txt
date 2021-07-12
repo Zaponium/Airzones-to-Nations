@@ -10,8 +10,8 @@ state={
 	state_category = town
 
 	history={
-        owner = NSA
-	add_core_of = NSA
+        owner = GRA
+	add_core_of = GRA
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

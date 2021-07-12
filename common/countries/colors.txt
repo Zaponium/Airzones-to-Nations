@@ -170,8 +170,8 @@ ARA = {
   color = rgb { 222 208 162 }
   color_ui = rgb { 255 255 155 }
 }
-DXX = {
-  color = rgb {  }
+NEG = {
+  color = rgb { 255 230 230 }
   color_ui = rgb { 255 255 155 }
 }
 DXX = {
@@ -207,6 +207,10 @@ KXX = {
   color_ui = rgb { 255 255 155 }
 }
 KXX = {
+  color = rgb {  }
+  color_ui = rgb { 255 255 155 }
+}
+ZXX = {
   color = rgb {  }
   color_ui = rgb { 255 255 155 }
 }

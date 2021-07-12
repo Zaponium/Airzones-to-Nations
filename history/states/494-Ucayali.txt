@@ -8,8 +8,8 @@ state={
 	
 
 	history={
-        owner = NAD
-	add_core_of = NAD
+        owner = GRP
+	add_core_of = GRP
 		buildings = {
 			infrastructure = 3
 		}

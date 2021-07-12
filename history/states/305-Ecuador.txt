@@ -10,8 +10,8 @@ state={
 	state_category = city
 
 	history={
-        owner = NSA
-	add_core_of = NSA
+        owner = GRA
+	add_core_of = GRA
 		buildings = {
         owner = NSA
 	add_core_of = NSA

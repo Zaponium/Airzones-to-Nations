@@ -11,8 +11,8 @@ state={
 	}
 
 	history={
-        owner = NSA
-	add_core_of = NSA
+        owner = GRA
+	add_core_of = GRA
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 2
