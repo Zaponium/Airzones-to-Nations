@@ -7,6 +7,8 @@ state=
 	state_category = wasteland
 	
 	history = {
+	owner = EGP
+	add_core_of = EGP
 		buildings = {
 			infrastructure = 1
 		}
