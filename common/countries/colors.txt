@@ -221,19 +221,19 @@ SED = {
   color = rgb { 0 0 255 }
   color_ui = rgb { 255 255 155 }
 }
-ZXX = {
-  color = rgb { x }
+SAR = {
+  color = rgb { 0 153 153 }
   color_ui = rgb { 255 255 155 }
 }
-ZXX = {
-  color = rgb { x }
+NRG = {
+  color = rgb { 204 0 0 }
   color_ui = rgb { 255 255 155 }
 }
-ZXX = {
-  color = rgb { x }
+NNG = {
+  color = rgb { 204 0 0 }
   color_ui = rgb { 255 255 155 }
 }
-ZXX = {
+OSR = {
   color = rgb { x }
   color_ui = rgb { 255 255 155 }
 }

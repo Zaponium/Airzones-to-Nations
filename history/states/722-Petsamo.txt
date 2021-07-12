@@ -6,6 +6,8 @@ state={
 	state_category = enclave
 
 	history={
+	owner = SAR
+	add_core_of = SAR
 		buildings = {
 			infrastructure = 3
 			9140 = {

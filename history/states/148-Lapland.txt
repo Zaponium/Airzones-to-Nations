@@ -11,6 +11,8 @@ state={
 		chromium=2 # was: 2
 	}
 	history={
+	owner = SAR
+	add_core_of = SAR
 		buildings = {
 			infrastructure = 2
 		}

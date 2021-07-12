@@ -53,9 +53,9 @@ GMO = "countries/GreaterMorocco.txt"
 IRN = "countries/Iran.txt"
 MRP = "countries/MountainRepublic.txt"
 SED = "countries/Sweden.txt"
-ZXX = x
-ZXX = x
-ZXX = x
-ZXX = x
+NRG = "countries/Norway.txt"
+OSR = "countries/Sapmi.txt"
+NNG = "countries/NordNorge.txt"
+SAR = "countries/SapmiRepublic.txt"
 
 
