@@ -167,12 +167,8 @@ EUS = {
 ECS = {
   color = rbg { 18 28 163 }
   color_ui = rbg { 255 255 155 }
-=======
-  color_ui = rgb { URC = {
-=======
+}
 ARA = {
   color = rgb { 222 208 162 }
   color_ui = rgb { 255 255 155 }
->>>>>>> Stashed changes
->>>>>>> parent of be5d119 (Revert "arabia")
 }
