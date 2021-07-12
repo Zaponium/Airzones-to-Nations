@@ -241,3 +241,7 @@ BLS = {
   color = rgb { 255 255 255 }
   color_ui = rgb { 255 255 155 }
 }
+UKA = {
+  color = rgb { 0 128 255 }
+  color_ui = rgb { 255 255 155 }
+}
