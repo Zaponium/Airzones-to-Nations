@@ -91,7 +91,7 @@ AMA = {
   color_ui = rgb { 255 255 155 }
 }
 GRA = {
-  color = rgb { 0 0 204 }
+  color = rgb { 0 48 143 }
   color_ui = rgb { 255 255 155 }
 }
 GRP = {
@@ -119,7 +119,7 @@ NMS = {
   color_ui = rgb { 255 255 155 }
 }
 GRC = {
-  color = rgb { 77 51 0 }
+  color = rgb { 150 113 23 }
   color_ui = rgb { 255 255 155 }
 }
 URC = {
@@ -127,11 +127,11 @@ URC = {
   color_ui = rgb { 255 255 155 }
 }
 CUT = {
-  color = rgb { 166 77 255 }
+  color = rgb { 255 8 0 }
   color_ui = rgb { 255 255 155 }
 }
 GST = {
-  color = rgb { 51 0 102 }
+  color = rgb { 148 87 235 }
   color_ui = rgb { 255 255 155 }
 }
 GLF = {
@@ -183,7 +183,7 @@ SAK = {
   color_ui = rgb { 255 255 155 }
 }
 FEC = {
-  color = rgb { 255 77 77 }
+  color = rgb { 33 171 205 }
   color_ui = rgb { 255 255 155 }
 }
 PIR = {
