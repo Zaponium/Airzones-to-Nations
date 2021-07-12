@@ -6,6 +6,8 @@ state={
 	}
 
 	history={
+	owner = GSP
+	add_core_of = GSP
 		buildings = {
 			infrastructure = 3
 

@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+	owner = UKU
+	add_core_of = UKU
 		buildings = {
 			infrastructure = 4
 		}

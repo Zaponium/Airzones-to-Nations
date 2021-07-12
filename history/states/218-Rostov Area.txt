@@ -7,6 +7,8 @@ state={
 	state_category = city
 
 	history={
+	owner = UKU
+	add_core_of = UKU
 		victory_points = {
 			9417 15 
 		}

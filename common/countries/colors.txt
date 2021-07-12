@@ -247,6 +247,8 @@ UKA = {
 }
 MUS = {
   color = rgb { 0 51 77 }
+UKU = {
+  color = rgb { 255 248 48 }
   color_ui = rgb { 255 255 155 }
 }
 KXX = {
@@ -255,5 +257,13 @@ KXX = {
 }
 KXX = {
   color = rgb { x }
+  color_ui = rgb { 255 255 155 }
+}
+FIL = {
+  color = rgb { 255 255 255 }
+  color_ui = rgb { 255 255 155 }
+}
+GSP = {
+  color = rgb { 0 150 200 }
   color_ui = rgb { 255 255 155 }
 }

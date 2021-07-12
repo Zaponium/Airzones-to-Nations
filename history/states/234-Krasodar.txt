@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+	owner = UKU
+	add_core_of = UKU
 		victory_points = {
 			3720 1 
 		}
