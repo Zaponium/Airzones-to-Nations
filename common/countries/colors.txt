@@ -213,8 +213,8 @@ IRN = {
   color = rgb { 74 64 58 }
   color_ui = rgb { 255 255 155 }
 }
-KXX = {
-  color = rgb { x }
+MRP = {
+  color = rgb { 156 62 145 }
   color_ui = rgb { 255 255 155 }
 }
 SED = {

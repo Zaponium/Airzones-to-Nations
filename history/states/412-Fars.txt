@@ -12,7 +12,6 @@ state={
 	history={
 	owner = IRN
 	add_core_of = IRN
-		owner = PER
 		victory_points = {
 			8117 3 
 		}
@@ -31,7 +30,6 @@ state={
 				naval_base = 2
 			}
 		}
-		add_core_of = PER
 	}
 
 	provinces={
