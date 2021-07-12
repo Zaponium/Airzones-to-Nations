@@ -11,6 +11,8 @@ state={
 	state_category = rural
 	
 	history={
+	owner = GMO
+	add_core_of = GMO
 		victory_points = {
 			7069 10 
 		}

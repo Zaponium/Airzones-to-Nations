@@ -200,6 +200,13 @@ GRD = {
 }
 ICL= {
   color = rgb { 85 85 85 }
+
+NAJ = {
+  color = rgb { 201 178 119 }
+  color_ui = rgb { 255 255 155 }
+}
+GMO = {
+  color = rgb { 82 56 42 }
   color_ui = rgb { 255 255 155 }
 }
 KXX = {

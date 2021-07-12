@@ -3,6 +3,8 @@ state={
 	name="STATE_665"
 
 	history={
+	owner = NAJ
+		add_core_of = NAJ
 		victory_points = {
 			7005 1 
 		}

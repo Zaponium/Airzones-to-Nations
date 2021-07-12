@@ -6,6 +6,8 @@ state={
 	state_category = wasteland
 
 	history={
+	owner = GMO
+	add_core_of = GMO
 		buildings = {
 			infrastructure = 1
 			8038 = {
