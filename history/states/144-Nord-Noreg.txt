@@ -12,6 +12,8 @@ state={
 	}
 
 	history={
+	owner = NNG
+	add_core_of = NNG
 		buildings = {
 			infrastructure = 3
 			air_base = 1

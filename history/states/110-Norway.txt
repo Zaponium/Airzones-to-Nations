@@ -11,6 +11,8 @@ state={
 	}
 
 	history={
+	owner = NRG
+	add_core_of = NRG
 		victory_points = {
 			6115 15 
 		}

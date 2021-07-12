@@ -11,6 +11,8 @@ state={
 	
 
 	history={
+	owner = OSR
+	add_core_of = OSR
 		victory_points = {
 			156 1 
 		}

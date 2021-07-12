@@ -12,6 +12,8 @@ state={
 	}
 
 	history={
+	owner = NRG
+	add_core_of = NRG
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2

@@ -12,6 +12,8 @@ state={
 	state_category = rural
 
 	history={
+	owner = OSR
+	add_core_of = OSR
 		victory_points = {
 			9108 1 
 		}
