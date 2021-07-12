@@ -86,7 +86,6 @@ AAS = {
   color = rgb { 123 128 116 }
   color_ui = rgb { 255 255 155 }
 }
-<<<<<<< Updated upstream
 AMA = {
   color = rgb { 76 153 0 }
   color_ui = rgb { 255 255 155 }
@@ -142,9 +141,4 @@ GLC = {
 THC = {
   color = rgb { 255 25 64 }
   color_ui = rgb { URC = {
-=======
-ARA = {
-  color = rgb { 222 208 162 }
-  color_ui = rgb { 255 255 155 }
->>>>>>> Stashed changes
 }

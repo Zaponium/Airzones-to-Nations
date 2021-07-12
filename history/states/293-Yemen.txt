@@ -10,8 +10,6 @@ state={
 		oil=1 # was: 1
 	}
 	history={
-	owner = ARA
-	add_core_of = ARA
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
