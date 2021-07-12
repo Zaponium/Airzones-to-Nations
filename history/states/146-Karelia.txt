@@ -5,6 +5,8 @@ state={
 	state_category = town
 
 	history={
+	owner = FIL
+	add_core_of = FIL
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2

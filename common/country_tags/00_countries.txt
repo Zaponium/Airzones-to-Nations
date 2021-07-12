@@ -59,8 +59,13 @@ NNG = "countries/NordNorge.txt"
 SAR = "countries/SapmiRepublic.txt"
 BLS = "countries/Belarus.txt"
 UKA = "countries/Ukraine.txt"
+<<<<<<< Updated upstream
 UKU = "countries/UnifiedKubanRegion.txt"
+=======
+KXX = x	
 KXX = x
+>>>>>>> Stashed changes
 KXX = x
-
+FIL = "countries/Finland.txt"
+GSP = "countries/GreaterStPetersburg.txt"
 

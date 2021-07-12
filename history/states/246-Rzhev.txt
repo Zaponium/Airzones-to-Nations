@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+	owner = GSP
+	add_core_of = GSP
 		victory_points = {
 			11349 1
 		}
