@@ -134,7 +134,7 @@ GST = {
   color = rgb { 51 0 102 }
   color_ui = rgb { 255 255 155 }
 }
-GLC = {
+GLF = {
   color = rgb { 0 213 255 }
   color_ui = rgb { 255 255 155 }
 }
@@ -209,12 +209,12 @@ GMO = {
   color = rgb { 82 56 42 }
   color_ui = rgb { 255 255 155 }
 }
-KXX = {
-  color = rgb { x }
+IRN = {
+  color = rgb { 74 64 58 }
   color_ui = rgb { 255 255 155 }
 }
-KXX = {
-  color = rgb { x }
+MRP = {
+  color = rgb { 156 62 145 }
   color_ui = rgb { 255 255 155 }
 }
 SED = {
