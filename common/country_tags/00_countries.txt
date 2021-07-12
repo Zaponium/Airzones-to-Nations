@@ -30,8 +30,12 @@ NMS = "countries/NorthernMexicanState.txt"
 POF = "countries/Porfiriato.txt"
 GRC = "countires/GreaterCalifornia.txt"
 URC = "countries/UnionOfRockyStates.txt"
+<<<<<<< Updated upstream
 CUT = "countries/CentralAmericanStates.txt"
 GST = "countries/GreaterStateOfTexas.txt"
 GLC = "countries/GreatLakesConfederacy.txt"
 THC = "countries/ThirteenColonies.txt"
+=======
+ARA = "countries/Arabia.txt"
+>>>>>>> Stashed changes
 
