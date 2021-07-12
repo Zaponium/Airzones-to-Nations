@@ -60,7 +60,7 @@ SAR = "countries/SapmiRepublic.txt"
 BLS = "countries/Belarus.txt"
 UKA = "countries/Ukraine.txt"
 UKU = "countries/UnifiedKubanRegion.txt"
-KXX = x
+ETS = "countries/ExtendedTerritoriesStalingrad.txt"
 KXX = x
 
 

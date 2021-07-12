@@ -3,6 +3,8 @@ state={
 	name="STATE_407"
 
 	history={
+	owner = ETS
+	add_core_of = ETS
 		buildings = {
 			infrastructure = 3
 

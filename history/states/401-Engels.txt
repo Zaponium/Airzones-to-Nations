@@ -12,6 +12,8 @@ state={
 	}
 
 	history={
+	owner = ETS
+	add_core_of = ETS
 		buildings = {
 			infrastructure = 4
 		}
