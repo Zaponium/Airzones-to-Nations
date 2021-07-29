@@ -6,6 +6,8 @@ state=
 	manpower=11532
 	history=
 	{
+	owner = GRA
+	add_core_of = GRA
 		buildings = {
 			infrastructure = 2
 			5023 = {
