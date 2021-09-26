@@ -9,6 +9,8 @@ state={
 		rubber=2 # was: 3
 	}
 	history={
+        owner = SSA
+	add_core_of = SSA
 		buildings = {
 			infrastructure = 3
 			arms_factory = 0

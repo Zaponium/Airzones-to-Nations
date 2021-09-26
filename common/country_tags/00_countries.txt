@@ -67,4 +67,9 @@ ETS = "countries/ExtendedTerritoriesStalingrad.txt"
 KXX = x
 FIL = "countries/Finland.txt"
 GSP = "countries/GreaterStPetersburg.txt"
+SSA = "countries/SubSahara.txt"
+ZXX
+ZXX
+ZXX
+ZXX
 

@@ -3,6 +3,8 @@ state={
 	name="STATE_701"
 
 	history={
+        owner = SSA
+	add_core_of = SSA
 		victory_points = {
 			4989 1 
 		}

@@ -9,6 +9,8 @@ state={
 		rubber=1 # was: 1
 	}
 	history={
+        owner = SSA
+	add_core_of = SSA
 		victory_points = {
 			12891 1
 		}

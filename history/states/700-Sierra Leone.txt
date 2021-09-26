@@ -7,6 +7,8 @@ state={
 	
 	history=
 	{
+        owner = SSA
+	add_core_of = SSA
 		victory_points = {
 			2038 1 
 		}
