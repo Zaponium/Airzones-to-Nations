@@ -6,6 +6,8 @@ state={
 	impassable = yes
 
 	history={
+	owner = MUE
+	add_core_of = MUE
 		buildings = {
 			infrastructure = 1
 
