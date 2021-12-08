@@ -1,0 +1,34 @@
+﻿l_english: 
+
+XXX_neutrality: ""
+XXX_neutrality_DEF: ""
+XXX_ADJ: ""
+
+### Political Parties ###
+KAR_neutrality: "Arctic Russian Kingdom"
+KAR_neutrality_DEF: "The Kingdom of Arctic Russia" #For events
+KAR_ADJ: "Russian"
+
+CSR_neutrality: "Central Siberian Region"
+CSR_neutrality_DEF: "The Central Siberian Region"
+CSR_ADJ: "Siberian"
+
+VRI_neutrality: "Volga River Institute"
+VRI_neutrality_DEF: "The Volgan River Institution"
+VRI_ADJ: "Volgan"
+
+TUH_neutrality: "True Ural Hegemony"
+TUH_neutrality_DEF: "The Hegemony of the Urals"
+TUH_ADJ: "Ural"
+
+WST_neutrality: "West Siberian Tribes"
+WST_neutrality_DEF: "The West Siberian Tribesmen"
+WST_ADJ: "Siberian Tribesmen"
+
+GSH_neutrality: "Great Siberian Horde"
+GSH_neutrality_DEF: "Great Horde of Siberia"
+GSH_ADJ: "HORDE"
+
+TGS_neutrality: "Golden Estates"
+TGS_neutrality_DEF: "The Golden States"
+TGS_ADJ: "Mongolian"

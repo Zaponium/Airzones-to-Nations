@@ -10,6 +10,8 @@ state={
 	}
 
 	history={
+	owner = GSH
+	add_core_of = GSH 
 		buildings = {
 			infrastructure = 1
 		}

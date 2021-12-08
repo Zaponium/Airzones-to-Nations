@@ -11,6 +11,8 @@ state={
 	state_category = pastoral
 
 	history={
+	owner = RFE
+	add_core_of = RFE
 		buildings = {
 			infrastructure = 3
 			air_base = 2

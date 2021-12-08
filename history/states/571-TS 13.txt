@@ -6,6 +6,8 @@ state={
 	
 	state_category = town
 	history={
+	owner = CSR
+	add_core_of = CSR 
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1

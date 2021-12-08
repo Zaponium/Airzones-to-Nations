@@ -3,6 +3,8 @@ state={
 	name="STATE_644"
 
 	history={
+	owner = GSH
+	add_core_of = GSH 
 		buildings = {
 			infrastructure = 1
 			13204 ={

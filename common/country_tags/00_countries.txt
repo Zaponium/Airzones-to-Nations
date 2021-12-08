@@ -64,12 +64,15 @@ UNK = "countries/UnitedKorea.txt"
 MUE = "countries/MauritanianEmpire.txt"
 UKU = "countries/UnifiedKubanRegion.txt"
 ETS = "countries/ExtendedTerritoriesStalingrad.txt"
-KXX = x
 FIL = "countries/Finland.txt"
 GSP = "countries/GreaterStPetersburg.txt"
 SSA = "countries/SubSahara.txt"
-ZXX
-ZXX
-ZXX
-ZXX
-
+KAR = "countries/ArcticRussia.txt"
+NST = "countries/NorthernSiberia.txt"
+RFE = "countries/RussianFarEast.txt"
+CSR = "countries/CentralSiberianRegion.txt"
+VRI = "countries/VolgaRiverInstitute.txt"
+TUH = "countries/TrueUralHegemony.txt"
+WST = "countries/WestSiberianTribes.txt"
+GSH = "countries/GreatSiberianHorde.txt"
+TGS = "countries/TheGoldenStates.txt"

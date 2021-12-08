@@ -7,6 +7,8 @@ state={
 	state_category = town
 
 	history={
+	owner = CSR
+	add_core_of = CSR 
 		victory_points = {
 			9292 5
 		}

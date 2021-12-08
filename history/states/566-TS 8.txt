@@ -9,6 +9,8 @@ state={
 	}
 
 	history={
+	owner = GSH
+	add_core_of = GSH 
 		victory_points = {
 			4797 3 
 		}
